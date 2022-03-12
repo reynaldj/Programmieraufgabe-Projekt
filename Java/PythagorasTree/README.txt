@@ -1,0 +1,1 @@
+Dieses Programm geht um das Zeichnen eines Pythagorasbaum, wobei der Winkel zwischen der Ankathete und Hypotenuse von den Dreiecken variabel ist.

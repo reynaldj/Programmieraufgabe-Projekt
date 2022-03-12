@@ -1,0 +1,4 @@
+Die Dateien al_def.pl, al_literals.pl, al_nf.pl, dpll.pl, und tseitin.pl sind Module, die in der Datei sat.pl genutzt werden.
+Die Datei sat.pl beinhaltet Prolog Code (deklarativ Programmierung), die ein Program ausführt, um das SAT Problem (Erfüllbarkeitsproblem) von aussagenlogischen Formeln zu lösen.
+Man kann einfach im Prolog sat(F) aufrufen, wobei F das aussagenlogische Formel, deren Erfüllbarkeit man testen will.
+Wenn die KNF im DIMACS-Format geschrieben ist, kann man sat_dimacs('F') aufrufen, wobei F der Name der Datei im DIMACS-Format, z.B sat_dimacs('knf.cnf'), um die Erfüllbarkeit des KNF zu testen.
