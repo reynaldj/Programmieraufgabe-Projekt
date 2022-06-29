@@ -1,0 +1,1 @@
+Here is my implementation of Network Shell, this allows a client and server connection to be established. Then a shell from the server side is shown, where the client can call commands that would be done to the server. Here the client can also download and upload data from and to the server.
